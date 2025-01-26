@@ -1,7 +1,7 @@
 .recipe__menu {
     display: flex;
     justify-content: center;
-    background-color: grey;
+    background-color: black;
     padding: 50px;
     width:300px;
     margin: 0 auto;
