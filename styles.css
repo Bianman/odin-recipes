@@ -1,0 +1,16 @@
+.recipe__menu {
+    display: flex;
+    justify-content: center;
+    background-color: grey;
+    padding: 50px;
+    width:300px;
+    margin: 0 auto;
+
+    }
+
+.recipe__menu-item {
+    display:flex;
+    justify-content:space-around ;
+    width: 300px;
+    color: white;
+}
