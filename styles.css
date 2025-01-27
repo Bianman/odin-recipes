@@ -72,13 +72,13 @@
 .home__title {
     text-align: center;
     border: 5px;
-    color: gold;
+    color: rgba(255, 212, 130);
     background-color: black;
     border-radius: 10rem / 1rem
 }
 
 a {
-    color: gold;
+    color: rgba(255, 212, 130);
 }
 
 .align {
