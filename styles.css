@@ -57,7 +57,7 @@
 }
 
 .recipe__container {
-    background-color: black;
+    background-color: #ff0000;
     width: 50%;
     display: flex;
     flex-direction: column;
