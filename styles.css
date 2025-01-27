@@ -1,3 +1,7 @@
+/* * {
+    outline: 2px solid red
+} */
+
 .recipe__menu {
     display: flex;
     justify-content: center;
@@ -52,14 +56,6 @@
     font-size: 15px;
 }
 
-.home__title {
-    text-align: center;
-    border: 5px;
-    color: gold;
-    background-color: black;
-    border-radius: 10rem / 1rem
-}
-
 .recipe__container {
     background-color: black;
     width: 50%;
@@ -68,8 +64,17 @@
     justify-content: center;
     margin: auto;
     text-align: center;
-    box-shadow: 0 0 100px;
+    box-shadow: 2px 2px 30px white;
     border-radius: 5rem;
+    outline: 2px solid white;
+}
+
+.home__title {
+    text-align: center;
+    border: 5px;
+    color: gold;
+    background-color: black;
+    border-radius: 10rem / 1rem
 }
 
 a {
