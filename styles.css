@@ -79,3 +79,7 @@ a {
 img {
     align-self: center;
 }
+
+.about__box {
+    text-align: center;
+}
