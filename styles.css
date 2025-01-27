@@ -34,3 +34,48 @@
     display: flex;
     justify-content: center;
 }
+
+.footer__menu {
+    background-color: black;
+    height: 100px;
+    width: 300px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 455px;
+}
+
+.footer__menu a{
+    color: #ffffff;
+    font-size: 15px;
+}
+
+.home__title {
+    text-align: center;
+    border: 5px;
+    color: gold;
+    background-color: black;
+    border-radius: 10rem / 1rem
+}
+
+.recipe__container {
+    background-color: black;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+    box-shadow: 0 0 100px;
+    border-radius: 5rem;
+}
+
+a {
+    color: gold;
+}
+
+img {
+    align-self: center;
+}
