@@ -113,3 +113,9 @@ ol.text-block {
     display: flex;
     justify-content: center;
 }
+
+#about__meme {
+    border-radius: 50%;
+    outline: 3px solid #cc0000;
+    box-shadow: 0 0 2rem 0.5rem #aa0000;
+}
